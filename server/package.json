@@ -13,6 +13,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.2",
-    "natural": "^8.0.1"
+    "natural": "^8.0.1",
+    "readability-scores": "^1.0.8",
+    "syllable": "^5.0.1",
+    "text-readability": "^1.1.0"
   }
 }
